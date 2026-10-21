@@ -1,6 +1,6 @@
 # Odd Pairs — JavaScript memory game
 
-A deliberately silly browser game: pair a disco ball, a dinosaur, a sock and five other unrelated things. **New AI-assisted portfolio example.**
+A deliberately silly browser game: pair a disco ball, a dinosaur, a sock and five other unrelated things. **New portfolio example.**
 
 ## Play
 
